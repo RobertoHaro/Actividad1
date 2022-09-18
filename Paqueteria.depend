@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1663437519 source:c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\packagenode.cpp
+	"packagenode.h"
+
+1663282883 c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\packagenode.h
+	"package.h"
+
+1663450529 c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\package.h
+	<string>
+	<iostream>
+
+1663452760 source:c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\package.cpp
+	"package.h"
+	<string>
+
+1663452623 source:c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\courier.cpp
+	"courier.h"
+	<string>
+
+1663287439 c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\courier.h
+	"packageList.h"
+	"packagenode.h"
+	"package.h"
+
+1663439361 c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\packagelist.h
+	<string>
+	<fstream>
+	<iostream>
+	<istream>
+	"package.h"
+	"packagenode.h"
+	"listexception.h"
+
+1663281357 c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\listexception.h
+	<exception>
+	<string>
+
+1663437953 source:c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"courier.h"
+	"packagelist.h"
+
+1663453052 source:c:\users\toto_\documents\tarea\semestre 4\seminario algoritmia\paqueteria\packagelist.cpp
+	"packagelist.h"
+
